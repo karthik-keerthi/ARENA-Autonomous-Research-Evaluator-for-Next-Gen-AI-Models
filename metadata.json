@@ -1,0 +1,5 @@
+{
+  "name": "ARENA - AI Research Evaluator",
+  "description": "Autonomous Research Evaluator for Next-Gen AI Models powered by Gemini 3 Pro. A scientific benchmarking tool using DeepMind's DSQA and FACTS datasets.",
+  "requestFramePermissions": []
+}
