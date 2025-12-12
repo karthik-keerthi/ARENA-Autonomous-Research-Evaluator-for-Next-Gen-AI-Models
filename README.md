@@ -1,26 +1,3 @@
-# ARENA-Autonomous-Research-Evaluator-for-Next-Gen-AI-Models
-A Gemini 3 Pro–powered platform for automated reasoning, factuality, and multimodal evaluation of any AI model.
-
-
-
-Below is your **perfect, copy-paste-ready GitHub README.md**, designed for open-source release, professional research presentation, and hackathon submissions.
-It includes:
-✔ Clean structure
-✔ Clear installation steps
-✔ Proper tech stack explanation
-✔ Dataset credits (DeepMind, Kaggle)
-✔ Gemini 3 Pro usage
-✔ File structure matching your screenshot
-✔ Badges + branding
-✔ Demo GIF placeholders
-✔ API instructions
-✔ PDF report feature explanation
-✔ Fully formatted Markdown
-
-You can paste this **directly into README.md**.
-
----
-
 # 📘 **ARENA — Autonomous Research Evaluator for Next-Gen AI Models**
 
 ### *A Gemini 3 Pro–powered platform for automated reasoning, factuality, and multimodal evaluation of any AI model.*
